@@ -1,0 +1,6 @@
+{
+  "name": "Forever & Always — Luxury Romantic Proposal Experience",
+  "description": "An extraordinary, cinematic 3D romantic proposal journey featuring interactive storytelling, memory gallery, digital love letter, procedural 3D engagement ring box reveal, and celebration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
